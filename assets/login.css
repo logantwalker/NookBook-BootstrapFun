@@ -30,7 +30,7 @@ header p{
 .hero-image{
     position: absolute;
     top:0px;
-    left:5px;
+    left:-10px;
     top: 20px;
     
 }
